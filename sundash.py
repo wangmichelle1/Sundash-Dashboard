@@ -1,9 +1,5 @@
 """
 Michelle Wang
-DS 3500
-SunDash - HW2
-2/10/2023
-
 sundash.py: runs the general script of the dashboard
 """
 
