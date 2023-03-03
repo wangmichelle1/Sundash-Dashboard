@@ -1,1 +1,2 @@
 # Sundash-Dashboard
+The Royal Observatory of Belgium provides the SIDC or Solar Influences Data Analysis Center. It provides sunspot counts over the past 270 years. There are two visualizations as well as images of the sun shown in this visualization. The user can use the filters to adjust the views of the visualizations and images. Friendly messages are indicated above each visualization to let the user know which filters to use. 
